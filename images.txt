@@ -1,5 +1,4 @@
 nginx
-lmsysorg/sglang:v0.4.4-cu124
+--platform=linux/x86_64 lmsysorg/sglang:v0.4.4-cu124
 #支持私库
 #支持指定架构
---platform=linux/x86_64
